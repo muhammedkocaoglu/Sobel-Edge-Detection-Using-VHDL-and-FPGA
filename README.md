@@ -3,4 +3,5 @@
 ![image](https://user-images.githubusercontent.com/68936726/147419480-768b542e-06dd-4e52-8299-d1529a659a9c.png)
 
 LinkedIn: https://www.linkedin.com/in/muhammed-kocao%C4%9Flu-2b661b178/
-Medium: 
+
+Medium: https://medium.com/@kocamuha/implementing-sobel-edge-detection-filter-using-vhdl-d852d5cd9440
